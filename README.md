@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hendra
+- Graduated from HTW Berlin, Germany
 - 👀 I’m interested in JS, web technologies and IoT
 - 🌱 I’m currently learning React, NextJS, Angular
 - 💞️ I’m looking to collaborate on any open project
