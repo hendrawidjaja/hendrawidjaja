@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hendra
-- Graduated from HTW Berlin, Germany
+- Graduated from HTW Berlin, Germany (2016)
 - 👀 I’m interested in JS, web technologies and IoT
-- 🌱 I’m currently learning React, NextJS, Angular
-- 💞️ I’m looking to collaborate on any open project
+- 🌱 I’m currently learning React, NextJS
+- - 💞️ I’m looking to collaborate on any open project
 - 📫 How to reach me:
   call: 087831091213
   email: hendrawidjaja@live.de
